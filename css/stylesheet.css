@@ -1,0 +1,42 @@
+body{
+  text-align: center;
+  background-color: #6D8B74;
+}
+
+#imagecss{
+  padding: 10px;
+  width: 30%;
+  border-radius: 5px;
+  border: 2px solid black;
+}
+h1{
+  background-color: #E3FCBF;
+}
+#headerSection{
+  padding:5px;
+}
+a{
+  color: black;
+}
+input{
+  padding: 10px;
+  border-radius: 5px;
+}
+#bodysection{
+  color:black;
+  font-size: 20px;;
+}
+#dropbox{
+  padding:10px;
+  border-radius: 5px;
+  width: 15%;
+  
+}
+
+#loginbtn{
+  padding: 5px;
+  font-size: 15px;
+  color: white;
+  border-radius: 5px;
+  background-color: #3498db;
+}
